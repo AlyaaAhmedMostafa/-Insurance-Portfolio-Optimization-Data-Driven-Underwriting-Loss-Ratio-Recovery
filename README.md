@@ -573,4 +573,4 @@ Automation       →  VBA — 1 master macro, 4 sheet formatters
 
 ---
 
-*Analysis reference date: 01 January 2025 · Portfolio: 5,000 policies · Currency: EGP*
+
